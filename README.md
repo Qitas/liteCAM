@@ -1,19 +1,15 @@
-# make
+﻿# jlink
 
-[![sites](docs/Q.png)](http://qitas.cn)
+## 简介
 
-## 描述
+jlink是SEGGER公司为支持仿真ARM内核芯片推出的JTAG仿真器。
 
-本项目用于构建自动化嵌入式firmware编译系统容器，通过和代码管理组件、通信组件联动实现嵌入式设备的自动化更新，单独使用可以编译相关固件
+配合IAR EWAR，ADS，KEIL，WINARM，RealView等集成开发环境支持所有ARM7/ARM9/ARM11,Cortex M0/M1/M3/M4, CortexA5/A8/A9等内核芯片的仿真，与IAR,Keil等编译环境无缝连接，是学习开发ARM最好最实用的开发工具。
 
-## 组成
 
-- cortex-M单片机固件编译
-- MIPS编译
-- 8051编译
 
-## 说明
+---
 
-项目采用docker容器，不断完善中
+## 为锻造最美之器
 
-![make Logo](docs/make.png)
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
