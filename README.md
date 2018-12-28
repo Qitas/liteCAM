@@ -1,15 +1,17 @@
-﻿# jlink
+﻿# [camera](https://github.com/qitas/camera) 
 
-## 简介
+## [描述](https://github.com/qitas/camera/wiki) 
 
-jlink是SEGGER公司为支持仿真ARM内核芯片推出的JTAG仿真器。
+应用于嵌入式MCU的camera驱动和应用资源
 
-配合IAR EWAR，ADS，KEIL，WINARM，RealView等集成开发环境支持所有ARM7/ARM9/ARM11,Cortex M0/M1/M3/M4, CortexA5/A8/A9等内核芯片的仿真，与IAR,Keil等编译环境无缝连接，是学习开发ARM最好最实用的开发工具。
+## [资源](qitas/)
+
 
 
 
 ---
 
-## 为锻造最美之器
+### 锻造最美之器
+### qitas@qitas.cn
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
