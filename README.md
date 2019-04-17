@@ -1,17 +1,14 @@
-﻿# [camera](https://github.com/qitas/camera) 
+﻿# [liteCAM](https://github.com/qitas/liteCAM) 
+#### qitas@qitas.cn
+## [描述](https://github.com/qitas/liteCAM/wiki) 
 
-## [描述](https://github.com/qitas/camera/wiki) 
+适用于资源有限的单片机摄像头工程文件，包括各种底层驱动和图片的处理
 
-应用于嵌入式MCU的camera驱动和应用资源
+### [组成](qitas/) 
 
-## [资源](qitas/)
+- [文档](docs/) 
+- [工程](project/) 
 
-
-
-
----
-
-### 锻造最美之器
-### qitas@qitas.cn
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
+## 锻造最美之器
